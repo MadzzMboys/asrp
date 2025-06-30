@@ -1,15 +1,15 @@
 
 function dc() {
   alert('Gabung & Bermain Di Server Air Space Roleplay')
-  window.open("https://discord.gg/v8qRSh77")
+  window.open("https://discord.gg/3HbyC3QAFS")
 }
 
 function yt() {
-  alert('Silahkan Subscribe YT ASRP')
-  window.open("https://youtube.com/shorts/B66YzvqtWEE?si=iFP3awkG2lY8Omcf")
+  alert('Silahkan Subscribe YT Founder ASRP')
+  window.open("https://www.youtube.com/@MadzExcode")
 }
 
 function tt() {
-  alert('Silahkan Follow Tiktok ASRP')
-  window.open("https://vm.tiktok.com/ZSHbdjbnnRDYK-CDuBm/")
+  alert('Silahkan Follow Tiktok Founder ASRP')
+  window.open("https://tiktok.com/@madzexcode")
 }
