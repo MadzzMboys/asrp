@@ -53,7 +53,7 @@ body {
 }
 
 .logo-background {
-  background: url('gta.jpg');
+  background: url('bg.png');
   background-position: center;
   background-size: cover;
   border: 3px solid red;
@@ -118,7 +118,7 @@ footer {
   right: 0px;
   left: 0px;
   background: rgba(0, 0, 139, 0.3);
-  color: white;
+  color: aqua;
   padding: 5px;
   border-bottom: 2px solid #00FFFF;
 }
@@ -129,6 +129,17 @@ footer {
 
 .ikonn {
   font-size: 20px;
-  color: white;
+  color: lime;
   text-shadow: 1px 1px 6px black;
+}
+.card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  cursor: pointer;
+  padding: 30px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3);
+}
+.bij {
+  color: aqua;
 }
